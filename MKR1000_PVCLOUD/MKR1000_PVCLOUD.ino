@@ -9,6 +9,9 @@
   http://arduino.cc/en/Tutorial/
 
   This code is in the public domain.
+
+  Modified by Jose Nunez <jose.nunez@intel.com> 
+  
 */
 
 #include <SPI.h>
